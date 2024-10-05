@@ -1,2 +1,2 @@
-- [Home](https://yultao.github.io)
+- [Home](https://taobook.github.io)
 - [LeetCode](https://leetcode.com/problemset/algorithms/)
