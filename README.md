@@ -1,6 +1,5 @@
 
- 
-  ------
+
 > **Without accumulating small steps, one cannot reach a thousand miles;**
 > 
 > **without gathering small streams, one cannot form a river or sea.**
