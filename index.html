@@ -1,3 +1,4 @@
+<!-- autoHeader: -->
 <!DOCTYPE html>
 <html lang="zh-cn">
 <head>
@@ -70,7 +71,17 @@
         '/en-us/': 'Search',
       },
       pathNamespaces: ['/zh-tw', '/en-us']
-    }
+    },
+    tabs: {
+      persist: true, // default
+      sync: true, // default
+      theme: 'classic', // default
+      tabComments: true, // default
+      tabHeadings: true // default
+    },
+    plugins: [
+
+    ],
   };
 </script>
 <script src="//cdn.jsdelivr.net/npm/docsify@4/lib/docsify.min.js"></script>
@@ -82,5 +93,8 @@
 <script src="//cdn.jsdelivr.net/npm/prismjs@1/components/prism-php.min.js"></script>
 <script src="//cdn.jsdelivr.net/npm/vue@2/dist/vue.min.js"></script>
 <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
+
+<script src="https://cdn.jsdelivr.net/npm/docsify-tabs@1"></script>
+<script src="docsify-plugin-footer.js"></script>
 </body>
 </html>
