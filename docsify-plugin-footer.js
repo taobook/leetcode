@@ -28,7 +28,7 @@
                   +".md";
 
       // Invoked one time when docsify script is initialized
-      var footer = [
+      var footer = vm.route.path=='/'?'':[
         '<hr/>',
         '<footer>',
         '<span>2024 &copy; taobook. </span>',
