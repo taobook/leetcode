@@ -4,6 +4,7 @@
     - [1.1.1: 1D](ch1.1.1.md)
       - [163. Missing Ranges | M-90](files/163.md)
       - [953. Verifying an Alien Dictionary](files/953.md)
+      - [977. Squares of a Sorted Array](files/977.md)
       - [1570. Dot Product of Two Sparse Vectors](files/1570.md)
       - [1868. Product of Two Run-Length Encoded Arrays](files/1868.md)
       - [2951. Find the Peaks](files/2951.md)
