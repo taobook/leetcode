@@ -176,7 +176,7 @@
     - [2711. Difference of Number of Distinct Values on Diagonals](files/2711.md)
     - [1652. Defuse the Bomb](files/1652.md)
     - [2640. Find the Score of All Prefixes of an Array](files/2640.md)
-  - [Chapter 3.5: Two Sum](ch24.md)
+  - [Chapter 3.5: Two Sum](ch3.5.md)
     - [2367. Number of Arithmetic Triplets](files/2367.md)
   - [Chapter 3.6: Parentheses](ch25.md)
     - [1111. Maximum Nesting Depth of Two Valid Parentheses Strings](files/1111.md)
