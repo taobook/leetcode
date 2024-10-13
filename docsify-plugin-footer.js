@@ -1,6 +1,13 @@
+defaultFooter = {
+  text: "2024 &copy; taobook. "
+};
+
 (function () {
   var myPlugin = function (hook, vm) {
-
+    footerText = defaultFooter.text;
+    if(vm.config.footer) {
+        footerText = vm.config.footer.text;
+    }
 
     hook.init(function () {
       // ...
@@ -31,7 +38,7 @@
       var footer = vm.route.path=='/'?'':[
         '<hr/>',
         '<footer>',
-        '<span>2024 &copy; taobook. </span>',
+        '<span>'+footerText+'</span>',
         '<a target="_blank" href="'+url+'">[Edit]</a>',
         '</footer>',
       ].join('');
