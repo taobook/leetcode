@@ -5,6 +5,7 @@
       - [163. Missing Ranges](files/163.md)
       - [274. H-Index](files/274.md)
       - [896. Monotonic Array](files/896.md)
+      - [945. Minimum Increment to Make Array Unique](files/945.md)
       - [953. Verifying an Alien Dictionary](files/953.md)
       - [977. Squares of a Sorted Array](files/977.md)
       - [1213. Intersection of Three Sorted Arrays](files/1213.md)
