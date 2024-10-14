@@ -1,3 +1,4 @@
+# Directed Graph Detect Cycle
 ### Solution
 
 ```java
