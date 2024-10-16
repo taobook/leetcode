@@ -1,9 +1,11 @@
+[//]: # (      - [2951. Find the Peaks]&#40;files/2951.md&#41;)
+
+[//]: # (      - [3065. Minimum Operations to Exceed Threshold Value I]&#40;files/3065.md&#41;)
+
 - [Preface](preface.md)
 - [Part I: Data Structure](part-i.md)
   - [Chapter 1.1: Array](ch1.1.md)
     - [1.1.1: 1D](ch1.1.1.md)
-      - [2951. Find the Peaks](files/2951.md)
-      - [3065. Minimum Operations to Exceed Threshold Value I](files/3065.md)
       - [2078. Two Furthest Houses With Different Colors](files/2078.md)
       - [2460. Apply Operations to an Array](files/2460.md)
       - [1413. Minimum Value to Get Positive Step by Step Sum](files/1413.md)
