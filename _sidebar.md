@@ -212,6 +212,8 @@
       - [2044. Count Number of Maximum Bitwise-OR Subsets](files/2044.md)
     - [模板二选或不选](ch2.11.2.md)
     - [Subset/Combination/Permutation](ch2.11.3.md)
+      - [78. Subsets](files/78.md)
+      - [90. Subsets II](files/90.md)
     - [尝试不同分割方式](ch2.11.4.md)
   - [Chapter 2.12: DP](ch2.12.md)
     - [Basics](ch2.12.1.md)
